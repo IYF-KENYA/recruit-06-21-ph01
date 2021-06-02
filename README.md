@@ -26,7 +26,7 @@ Both the retailer and the warehouse can see pending and processed reorders.
 - The buttons should not trigger a page refresh. _(**hint:** Javascript, in whatever from, will come in handy here)_
 - Write at least one unit test for each of the functions that simulate the sale and the dispatch
 - Provide the command necessary to run your tests
-- Create a private repository on GitHub and add [info@valuechainfactory.com](mailto:info@valuechainfactory.com) as a colaborator
+- Create a private repository on GitHub and add [hr@iyfkenya.com](mailto:hr@iyfkenya.com) as a colaborator
 - Push your code to that repoitory in as many commits as neccessary - preferably more than one.
 - Host the solution on [Heroku](https://www.heroku.com/) or an alternative hosting provider and share the link in the section below.
 
