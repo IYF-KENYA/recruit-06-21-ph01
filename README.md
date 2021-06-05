@@ -40,8 +40,8 @@ Feel free to use whatever language you most feel comfortable in.
 
 ### Hosted App Link
 
-    Paste your hosted application url here: __
+    Paste your hosted application url here: http://secure-savannah-67863.herokuapp.com/
 
 ### Comments
 
-    Add your comments below:
+    hosted on heroku at the link above
